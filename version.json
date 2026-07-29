@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/borhanidev/test12es/releases/download/beta-4/ScreenSniper.exe",
-  "releaseNotes": "- Significantly Reduced App size"
+  "version": "1.0.4",
+  "downloadUrl": "https://github.com/borhanidev/test12es/releases/download/Beta/ScreenSniper.exe",
+  "releaseNotes": "- Integrated official Fluent System Icons\n- Hidden app from Windows Alt+Tab switcher\n- Performance and stability fixes"
 }
