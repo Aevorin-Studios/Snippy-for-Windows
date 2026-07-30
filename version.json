@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "downloadUrl": "https://github.com/borhanidev/test12es/releases/download/beta-6/ScreenSniper.exe",
-  "releaseNotes": "- Integrated official Fluent System Icons\n- Hidden app from Windows Alt+Tab switcher\n- Performance and stability fixes"
+  "version": "1.0.6",
+  "downloadUrl": "https://github.com/borhanidev/test12es/releases/download/Beta-7/ScreenSniper.exe",
+  "releaseNotes": "- 2D HSV Spectrum & Rainbow Color Picker\n- Circular tooltips & custom hotkey rebinding in Settings\n- UI cut-off fixes and performance improvements"
 }
