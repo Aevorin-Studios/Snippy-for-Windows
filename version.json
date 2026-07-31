@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.0",
   "downloadUrl": "https://github.com/borhanidev/test12es/releases/download/Beta-8/Snippy.exe",
   "releaseNotes": "- 2D HSV Spectrum & Rainbow Color Picker\n- Circular tooltips & custom hotkey rebinding in Settings\n- Butter smooth selection movement and desktop-anchored annotations"
 }
