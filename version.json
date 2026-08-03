@@ -1,5 +1,6 @@
 {
   "version": "1.0.1",
   "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.1/Snippy.exe",
+  "setupUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.1/Snippy_Setup.exe",
   "releaseNotes": "- Screen Color Picker Eyedropper mode with real-time floating card & Win32 hardware accuracy\n- Freeform Lasso snip clipping & dimming mask cutout fixes\n- Quick Save to Pictures\\Snippy with 2-second checkmark feedback\n- Self-healing Auto-Increment Step Badge numbering logic\n- Improved Shapes Selector split button toolbar & corner-wise Line icon"
 }
