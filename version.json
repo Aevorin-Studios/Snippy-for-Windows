@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.3/Snippy.exe",
-  "releaseNotes": "- Fixed cursor switching glitches & updated tool cursors\n- Added custom visual Eyedropper and Eraser cursors\n- Added PNG alpha transparency for freeform snips"
+  "version": "1.0.4",
+  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.4/Snippy.exe",
+  "releaseNotes": "- Added OS synced Light and Dark theme support\n- Implemented hierarchical Ctrl+Z undo & step-back navigation\n- Added Windows 11 OCR text extraction with ScanText icon\n- Added Debug Logger Console toggle & improved Settings Save & Apply"
 }
