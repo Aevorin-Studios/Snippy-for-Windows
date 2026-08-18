@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.4/Snippy.exe",
-  "releaseNotes": "- Added OS synced Light and Dark theme support\n- Implemented hierarchical Ctrl+Z undo & step-back navigation\n- Added Windows 11 OCR text extraction with ScanText icon\n- Added Debug Logger Console toggle & improved Settings Save & Apply"
+  "version": "1.0.5",
+  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.5/Snippy.exe",
+  "releaseNotes": "- Reduced executable size from 32MB down to ~10MB using Costura\n- Reordered shape annotation tools menu\n- Switched screen capture rendering API from GDI+ to Direct3D (DXGI) for significantly smoother and faster performance"
 }
