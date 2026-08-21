@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.5/Snippy.exe",
-  "releaseNotes": "- Reduced executable size from 32MB down to ~10MB using Costura\n- Reordered shape annotation tools menu\n- Switched screen capture rendering API from GDI+ to Direct3D (DXGI) for significantly smoother and faster performance"
+  "version": "1.0.6",
+  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.6/Snippy.exe",
+  "releaseNotes": "- Added intelligent Screen Capture Engine selection (Auto, DXGI, BitBlt) to the Settings Menu\n- Implemented smart hardware heuristics to automatically assign the optimal capture method for legacy GPUs\n- Completely overhauled the Settings UI with a custom sleek, dark-themed layout\n- Added a toggle for the Debug Logger Console within settings\n- Fixed a significant delay when opening the font dropdown menu\n- Fixed Quick Save icon color not properly adapting to Light Mode\n- General bug fixes and stability improvements"
 }
