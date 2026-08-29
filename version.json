@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.6/Snippy.exe",
-  "releaseNotes": "- Added intelligent Screen Capture Engine selection (Auto, DXGI, BitBlt) to the Settings Menu\n- Implemented smart hardware heuristics to automatically assign the optimal capture method for legacy GPUs\n- Completely overhauled the Settings UI with a custom sleek, dark-themed layout\n- Added a toggle for the Debug Logger Console within settings\n- Fixed a significant delay when opening the font dropdown menu\n- Fixed Quick Save icon color not properly adapting to Light Mode\n- General bug fixes and stability improvements"
+  "version": "1.0.7",
+  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.7/Snippy.exe",
+  "releaseNotes": "- Made the Blur Tool dynamic (Glass panes effect) for smoother real-time obfuscation\n- Fixed an issue where text annotations in the active selection state were missing from the final copied image\n- Fixed severe anti-aliasing issues where drawn shapes (Lines, Paths) had jagged edges and chopped end-caps\n- Added a new 'What's New' popup window to automatically show release notes after Snippy updates\n- Added a new setting to toggle the automatic 'What's New' popup window\n- Added a 'Release Notes' button in the system tray menu for on-demand access\n- Optimized background memory trimming for more efficient idle RAM usage"
 }
