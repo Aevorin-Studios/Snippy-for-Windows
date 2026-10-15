@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "build": 1,
-  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.0-b1/Snippy.exe",
+  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.0-Build-1/Snippy.exe",
   "releaseNotes": "- Snippy v1.0.0 (Build 1) milestone release\r\n- New unified continuous build and update delivery system\r\n- Ultra-fast native C++20 engine with Direct2D/DirectComposition acceleration\r\n- Active version and build number visibility in Settings"
 }
