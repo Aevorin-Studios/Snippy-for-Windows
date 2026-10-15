@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.9/Snippy.exe",
-  "releaseNotes": "- Bug Fixes"
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.1.0/Snippy.exe",
+  "releaseNotes": "- Fixed shortcut persistence bug where bracket and punctuation keys (e.g. ']') reverted to 'S' on restart\r\n- Silent background update downloading with no interrupting progress dialog\r\n- Show release notes on update setting is now turned off by default\r\n- Game and presentation protection: update notices and release notes will never interrupt fullscreen games or presentations"
 }
