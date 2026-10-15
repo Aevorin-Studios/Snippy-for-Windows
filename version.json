@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.8/Snippy.exe",
-  "releaseNotes": "- Complete ground-up rewrite in modern native C++20 for instant startup and maximum responsiveness\n- 93% smaller memory footprint and zero external dependencies (no .NET runtime required)\n- Hardware-accelerated Direct2D / DirectComposition capture and rendering pipeline\n- Native Windows OCR text extraction and AVX2-accelerated pixel sampling\n- Compact and space-saving real-time Color Picker HUD with instant hex copying\n- Seamless settings migration preserving all custom hotkeys, themes, and preferences"
+  "version": "1.0.9",
+  "downloadUrl": "https://github.com/Aevorin-Studios/Snippy-for-Windows/releases/download/v1.0.9/Snippy.exe",
+  "releaseNotes": "- Bug Fixes"
 }
